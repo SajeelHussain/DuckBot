@@ -1,5 +1,8 @@
 # DuckBot
-Description:
+#### Video Demo:  <https://youtu.be/eFlqBhqp83M>
+#### Description:
+
+
 This project is a web-based chatbot application developed as the final project for CS50x. The chatbot uses Flask as the web framework and DialoGPT for generating conversational responses. The project includes several key features:
 
 # Features
@@ -25,7 +28,7 @@ register.html: The registration page for new users.
 
 login.html: The login page for returning users.
 
-static/: Directory containing static files such as CSS and JavaScript.
+static/: Directory containing static files such as CSS file for styling
 
 requirements.txt: Lists the Python dependencies required to run the application.
 
